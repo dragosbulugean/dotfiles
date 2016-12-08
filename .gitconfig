@@ -1,0 +1,31 @@
+[user]
+
+	email = dragos.bulugean@gmail.com
+	name = Dragos Bulugean
+
+[alias]
+
+	a = add
+	co = checkout
+	d = diff
+	f = fetch
+	l = log
+	lol = log --graph --pretty=oneline
+	m = merge
+	pl = pull
+	ps = push
+	r = reset
+	rb = rebase
+	redo = commit --amend --no-edit
+	s = status
+	sh = show
+	st = stash
+	y = cherry-pick
+
+[diff]
+
+	tool = vimdiff
+
+[merge]
+ 
+	tool = vimdiff
