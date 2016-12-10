@@ -13,4 +13,3 @@ export PATH=$PATH:$GOPATH/bin
 export projects=$GOPATH/src/bitbucket.org/dragosbulugean
 export aiurlabs=$projects/aiurlabs
 
-alias ls = ls -la
